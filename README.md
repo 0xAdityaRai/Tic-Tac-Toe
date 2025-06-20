@@ -11,7 +11,7 @@
 
 Responsive tic tac toe game using HTML, CSS and Javascript.
 
-# [Live Demo](https://nishantkr2003.github.io/Tic-Tac-Toe/)
+# [Live Demo](https://0xadityarai.github.io/Tic-Tac-Toe/)
 ## Desktop Preview
 
 https://github.com/user-attachments/assets/3ced7eb8-3d03-4ec3-9666-7396cb0853a0
